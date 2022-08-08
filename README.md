@@ -23,16 +23,20 @@ In order to run the DDR code, this file contains the necessary code to do so. Al
 * The Word2Vec file is not provided, as it was ca. 3GB and therefore too large to upload. Please use the following link instead to download the Word2Vec model: https://code.google.com/archive/p/word2vec. The downloaded model should be stored in the same master file (i.e., DDR-master) to make the code work. 
 
 ## Document dictionary loadings Guardian
-The outputs from DDR (i.e., the document dictionary loadings) provided too big of a file to upload to GitHub, therefore only the subsets of the (Guardian) data which were quantitatively analysed as well as the descriptive statistics results which were run on these subsets are laid out in the worksheets of this Excel file. 
+The full outputs from DDR (i.e., the document dictionary loadings) provided too big of a file to upload to GitHub, therefore only the subsets of the (Guardian) data which were quantitatively analysed as well as the descriptive statistics results which were run on these subsets are laid out in the worksheets of this Excel file. Full outputs can be obtained by running the DDR code.  
 
 ## Document dictionary loadings DM
-The outputs from DDR (i.e., the document dictionary loadings) provided too big of a file to upload to GitHub, therefore only the subsets of the (Daily Mail) data which were quantitatively analysed as well as the descriptive statistics results which were run on these subsets are laid out in the worksheets of this Excel file. 
+The full outputs from DDR (i.e., the document dictionary loadings) provided too big of a file to upload to GitHub, therefore only the subsets of the (Daily Mail) data which were quantitatively analysed as well as the descriptive statistics results which were run on these subsets are laid out in the worksheets of this Excel file. Full outputs can be obtained by running the DDR code. 
 
-## Within Guardian t-test
+## Within Guardian t-test (results)
 This Excel file contains the results of the Wilcoxon's t-tests which were run on The Guardian's document dictionary loadings. The results pertain to the full data sets (i.e., document dictionary loadings). No t-tests were run on any subsets of the data. 
 
-## Within DM t-test
+## Within DM t-test (results)
 This Excel file contains the results of the Wilcoxon's t-tests which were run on The Daily Mail's document dictionary loadings. The results pertain to the full data sets (i.e., document dictionary loadings). No t-tests were run on any subsets of the data. 
 
-## Guardian vs. DM t-test
+## Guardian vs. DM t-test (results)
 This Excel file contains the results of the Welch's t-tests which were run to compare the document dictionary loadings of The Guardian with those of The Daily Mail. The results pertain to the full data sets. 
+
+
+## Moral Foundations Dictionary
+This Excel sheet shows the whole of the Moral Foundations Dictionary as used in study two (and three), of which an illustrative selection is listed in Figure 3. 
