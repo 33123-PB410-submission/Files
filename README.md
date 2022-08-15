@@ -12,7 +12,7 @@ An Excel file containing the 'best rated' comments selected for study 3, in conj
 This CSV file contains the comments which were scraped from The Guardian's articles specified in 'Corpora study 1&2'. 
 
 ## DM full comment data
-This CSV file contains the comments which were scraped from The Daily Mails' articles specified in 'Corpora study 1&2'. 
+This CSV file contains the comments which were scraped from The Daily Mail's articles specified in 'Corpora study 1&2'. 
 
 ## DDR-master
 This is a repository containing the code to execute DDR from [Garten et al. (2018)](https://link.springer.com/article/10.3758/s13428-017-0875-9). Since the available code was written to be compatible with Python 2.0, some code was adapted to be compatible with the current latest version of Python (3.9.7). 
@@ -20,7 +20,7 @@ This is a repository containing the code to execute DDR from [Garten et al. (201
 ## DDR Execution file (Python)
 In order to run the DDR code, this file contains the necessary code to do so. All file paths have been anonymised and will need to be defined by any subsequent user themselves in order to run the code. The output will be a tab-separated values file (tsv). 
 
-* The Word2Vec file is not provided, as it was ca. 3GB and therefore too large to upload. Please use the following link instead to download the Word2Vec model: https://code.google.com/archive/p/word2vec. The downloaded model should be stored in the same master file (i.e., DDR-master) to make the code work. 
+* The Word2Vec file is not provided, as it was ca. 3GB and therefore too large to upload. Please use the following link instead to download the Word2Vec model: https://code.google.com/archive/p/word2vec. The downloaded model should be stored in the same master file (i.e., DDR-master) to run the code. 
 
 ## Document dictionary loadings Guardian
 The full outputs from DDR (i.e., the document dictionary loadings) provided too big of a file to upload to GitHub, therefore only the subsets of the (Guardian) data which were quantitatively analysed as well as the descriptive statistics results which were run on these subsets are laid out in the worksheets of this Excel file. Full outputs can be obtained by running the DDR code.  
