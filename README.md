@@ -39,4 +39,4 @@ This Excel file contains the results of the Welch's t-tests which were run to co
 
 
 ## Moral Foundations Dictionary
-This Excel sheet shows the whole of the Moral Foundations Dictionary as used in study two (and three), of which an illustrative selection is listed in Figure 3. 
+This Excel sheet shows the whole of the Moral Foundations Dictionary as used in study two (and three), of which an illustrative selection is listed in Figure 3. The complete Moral Foundations Dictionary was retrieved from https://moralfoundations.org/other-materials/. 
